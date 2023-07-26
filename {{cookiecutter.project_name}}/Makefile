@@ -76,6 +76,6 @@ docs: ## Build and serve the documentation
 
 .PHONY: help
 help:
-	@echo 345345
+	@echo 678
 
 .DEFAULT_GOAL := help
